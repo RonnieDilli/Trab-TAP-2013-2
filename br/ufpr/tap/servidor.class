@@ -1,3 +1,0 @@
-interface Servidor {
-  public void tarefa(Servico srv, Object param);
-}
